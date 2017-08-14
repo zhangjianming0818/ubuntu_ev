@@ -1,0 +1,14 @@
+[user]
+    name = zhangjianming0818
+    email = zjm644276040@163.com
+[alias]
+    co = checkout
+    ci = commit
+    st = status
+    br = branch
+    lg = log
+    df = diff
+[core]
+    editor = vim
+[commit]
+    template = /home/jimmy/.gitmessage
